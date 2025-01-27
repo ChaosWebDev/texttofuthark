@@ -1,4 +1,4 @@
-export default {
+export const ttf = {
     latinToFutharkMap: {
         'a': 'ᛀ', 'b': 'ᛒ', 'c': 'ᛌ', 'd': 'ᛞ', 'e': 'ᛇ',
         'f': 'ᚠ', 'g': 'ᚷ', 'h': 'ᛇ', 'i': 'ᛁ', 'j': 'ᛃ',
