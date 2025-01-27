@@ -1,0 +1,22 @@
+{
+  "name": "texttofuthark",
+  "version": "1.0.0",
+  "description": "Latin alphabet to and from Furthark runes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaosWebDev/TextToFuthark.git"
+  },
+  "keywords": [
+    "Futhark"
+  ],
+  "author": "Jordan Gerber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChaosWebDev/TextToFuthark/issues"
+  },
+  "homepage": "https://github.com/ChaosWebDev/TextToFuthark#readme"
+}
