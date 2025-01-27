@@ -2,9 +2,9 @@ Currently in development. Should convert most things.
 
 Numbers not included.
 
-`import { toFuthark, toLatin } from 'texttofuthark'`
+`import { toFuthark, toLatin } from 'texttofuthark';`
 `let rune = toFuthark('a');`
-`console.log(rune)`
+`console.log(rune);`
 
 should output ᚨ
 
